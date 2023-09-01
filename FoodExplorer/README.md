@@ -63,7 +63,7 @@ Clone o projeto, acesse a pasta e inicie o servidor.
 
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/httpsmanddy/foodExplorer-api.git
+$ git clone https://github.com/httpsmanddy/Api-foodExplorer.git
 $ cd food-explorer-api
 $ npm install
 $ npm run dev
