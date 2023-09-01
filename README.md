@@ -1,5 +1,7 @@
 # Food explorer - Frontend
 
+![Capa](https://github.com/httpsmanddy/api-food-explorer/assets/114830898/cffe5242-2771-43e4-ba44-735cf7d3fe43)
+
 - O Food Explorer é um menu digital de um restaurante fictício.
 - Layout do projeto no figma: https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1
 - Deploy do projeto: https://foodexplorergb.netlify.app/
