@@ -2,6 +2,8 @@
 
 - O Food Explorer é um menu digital de um restaurante fictício.
 - Layout do projeto no figma: https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1
+- Deploy do projeto: https://foodexplorergb.netlify.app/
+- login admin: email: admin@admin.com senha: 098765
 
 
 ## ⚡ Desenvolvimento...
