@@ -33,6 +33,7 @@ export function SignUp() {
         setLoading(false)
       })
       .catch(error => {
+        alert(error);
         if(error.response) {
           alert(error.response.data.message);
         } else {

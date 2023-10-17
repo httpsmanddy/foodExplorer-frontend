@@ -6,7 +6,7 @@ import { useCart } from '../../hooks/cart';
 import { Footer } from '../../components/Footer';
 import { Header } from '../../components/Header';
 import { Button } from '../../components/Button';
-import { Ingredient } from '../../components/Ingredient';
+import { IngredientItem } from '../../components/IngredientItem';
 import { Container, Main, Ingredients, ButtonBack, Content, Info } from './styles';
 
 import { FiMinus, FiPlus, FiChevronLeft } from 'react-icons/fi';
